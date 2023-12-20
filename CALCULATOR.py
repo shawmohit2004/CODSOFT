@@ -15,7 +15,7 @@ LABEL_COLOR = "#25265E"
 class Calculator:
     def __init__(self):
         self.window = tk.Tk()
-        self.window.geometry("375x667")
+        self.window.geometry("275x567")
         self.window.resizable(0, 0)
         self.window.title("Calculator")
 
